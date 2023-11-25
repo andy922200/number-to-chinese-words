@@ -1,6 +1,6 @@
 {
   "name": "@andy922200/number-to-chinese-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "An npm package for number formatting to Chinese words",
   "repository": {
